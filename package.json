@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  },
+  "name": "myweb",
+  "version": "1.0.0",
+  "description": "RDA Dev personal web",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrrda1969/myweb.git"
+  },
+  "author": "mrrda1969",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrrda1969/myweb/issues"
+  },
+  "homepage": "https://github.com/mrrda1969/myweb#readme"
+}
